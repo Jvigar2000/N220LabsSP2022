@@ -120,8 +120,6 @@ function draw(){
     circle(470,505,15);
 
     circle(470,550,15);
-   
-    
 
 }
 
