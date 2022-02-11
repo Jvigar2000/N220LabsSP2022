@@ -1,5 +1,5 @@
 // Jameson Vigar
-// 2/10/2000
+// 2/10/2022
 // Data Driven
 
 //initialize object
@@ -26,6 +26,6 @@ function draw(){
     fill(obj.color);
     rect(obj.x,obj.y, obj.height, obj.width);
 
-    
+
 
 }
