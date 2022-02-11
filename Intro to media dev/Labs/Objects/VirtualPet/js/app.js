@@ -25,7 +25,7 @@ function setup(){
 function draw(){
 
     fill(pet.color);
-    circle(mouseX   , mouseY, pet.r);
+    circle(mouseX , mouseY, pet.r);
 
     /*if mousePressed(){
         offsetX + 1;
