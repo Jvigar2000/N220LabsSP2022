@@ -23,9 +23,10 @@ function setup(){
 
 // draw function
 function draw(){
-
+   
     fill(pet.color);
     circle(mouseX , mouseY, pet.r);
+ background(black);
 
     /*if mousePressed(){
         offsetX + 1;
