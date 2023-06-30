@@ -1,5 +1,6 @@
 // Jameson Vigar
-// 1/19/22
+// 1/19/22 
+// Revised 6/30/23
 // N220
 
 // variable for timer
@@ -85,8 +86,7 @@ function draw(){
     fill('white');
 
     // each circle is 45 apart 
-    // I was going to create a loop so i did not have 
-    // to duplicate manually but i couldn't figure it out
+    
     circle(245,55,15);
 
     circle(290,55,15);
