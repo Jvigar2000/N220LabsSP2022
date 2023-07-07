@@ -5,11 +5,17 @@
 
 function setup(){
     createCanvas(600, 600);
-    // backgrond black
+    // background black
     background(0);
 
 }
-let x = 0;
 
 
-circle(300, 300, 20); 
+
+for( x = 20 ; x > 10; x-- ){
+
+    circle(300, 300, x );
+    describe('white circle with black outline in mid of gray canvas');
+
+
+}
