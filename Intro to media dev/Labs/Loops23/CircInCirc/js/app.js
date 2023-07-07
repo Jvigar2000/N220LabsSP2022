@@ -4,6 +4,7 @@
 // "Circle in Circle"
 
 function setup(){
+    
     createCanvas(600, 600);
 
 
@@ -17,7 +18,7 @@ function setup(){
 function draw() {
     
     background(255,255,255);
-    
+
 for( x = 20 ; x > 10; x-- ){
 
     circle(300, 300, x );
