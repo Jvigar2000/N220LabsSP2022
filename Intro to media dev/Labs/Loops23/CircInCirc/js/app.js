@@ -17,7 +17,7 @@ function setup(){
 
 function draw() {
     
-    background(255,255,255);
+    background(220);
 
 //for( x = 200 ; x > 100; x-- ){
 
