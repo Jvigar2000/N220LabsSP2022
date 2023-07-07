@@ -19,13 +19,8 @@ function draw() {
     
     background(220);
 
-//for( x = 200 ; x > 100; x-- ){
-
-    circle(300, 300, x );
+    circle(300, 300, 200 );
     
     noFill();
    
-
-// }
-
 }
