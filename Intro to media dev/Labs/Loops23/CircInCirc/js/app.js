@@ -6,7 +6,7 @@
 function setup(){
     createCanvas(600, 600);
     // background 
-    background(0,0,0);
+    background(255,255,255);
 
 }
 
