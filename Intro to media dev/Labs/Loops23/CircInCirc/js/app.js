@@ -19,6 +19,8 @@ function draw() {
     background(255,255,255);
 
     circle(300, 300, x );
+    
+    noFill();
    
 
 }
