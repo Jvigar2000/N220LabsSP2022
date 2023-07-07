@@ -12,4 +12,4 @@ function setup(){
 let x = 0;
 
 
-circle(30, 30, 20); 
+circle(300, 300, 20); 
