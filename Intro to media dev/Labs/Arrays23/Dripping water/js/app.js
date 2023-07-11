@@ -42,7 +42,7 @@ function draw() {
         
         circleY.push(0);
     
-        console.log(frameCount);
+        //console.log(frameCount);
     }
     
     }
