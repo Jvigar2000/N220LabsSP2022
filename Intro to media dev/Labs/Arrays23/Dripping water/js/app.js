@@ -13,8 +13,7 @@ function setup(){
 // array for y position of circles 
  circleY=[];  
 
-//diameter of the circle
-diameter = 50;
+
 
 function draw() {
 
