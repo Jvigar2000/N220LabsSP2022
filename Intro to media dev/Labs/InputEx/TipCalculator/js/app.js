@@ -1,6 +1,7 @@
 // Jameson Vigar
-// 3/23/22
+// 07/25/23
 // N220
+//Tip Calculator
 
 // get user input 
 let cost = document.getElementById("cost");

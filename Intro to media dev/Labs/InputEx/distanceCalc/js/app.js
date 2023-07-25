@@ -1,6 +1,7 @@
 // Jameson Vigar
-// 3/23/22
+// 07/25/23
 // N220
+// "Distance Calculator"
 
 // get all 4 inputs 
 
