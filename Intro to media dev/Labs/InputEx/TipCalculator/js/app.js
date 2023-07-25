@@ -14,7 +14,8 @@ function calc(){
     // calc for a 20% tip
     let tip = Cost * .2;
     // add the tip to the Cost 
-    let total = tip + Cost;
+    // parseInt coverts the string to an integer
+    let total = tip + parseInt(Cost);
 
     // output the tip and the total 
     console.log("Tip: $ " + tip, "Total: $ " + total);
